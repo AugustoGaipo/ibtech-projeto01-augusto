@@ -24,7 +24,8 @@ cardvisita/
 └── assets/
     ├── foto1.jpg    # imagem da galeria
     ├── foto2.jpg    # medalha OBMEP
-    └── foto3.jpg    # avatar e galeria
+    ├── foto3.jpg    # avatar (foto de perfil)
+    └── foto4.jpg    # imagem da galeria
 ```
 
 ## Como rodar
